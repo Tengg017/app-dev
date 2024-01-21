@@ -1,4 +1,4 @@
 {
-  "My Favourite Series" : "One Piece",
+  "My Favourite Series" : "Fire Force",
   "My Favourite Movie" : "Your Name",
 }  
